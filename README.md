@@ -31,7 +31,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd-year **B.Tech CSE (AI)** student at **SKIT, Jaipur** — maintaining a **9.1 CGPA**
+- 🎓 Final-year **B.Tech CSE (AI)** student at **SKIT, Jaipur** — maintaining a **9.1 CGPA**
 - 🎯 Targeting **SDE roles**, backed by solid **Full-Stack Development** skills, currently going deeper into **Data Science & ML**
 - 🏆 Recognised at **Cognizance'24, IIT Roorkee** for an NLP sentiment-analysis tool (85%+ accuracy)
 - 💼 **Data Analyst Intern** @ Zeetron Networks Pvt. Ltd. · **Web Development Intern** @ KishTechno Pvt. Ltd.
