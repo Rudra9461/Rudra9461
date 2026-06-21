@@ -67,7 +67,7 @@
 | Project | Tech Stack | Highlights |
 |---|---|---|
 | [🏦 Banking Data Dashboard](https://github.com/Rudra9461/Banking-Data-Analysis) | Python · Power BI · MySQL | Interactive dashboard visualizing loan & deposit trends — 20% increase in data-driven insights |
-| [⌚ Rudyard Watches — E-commerce](https://github.com/Rudra9461/RUDYARD_WATCHES_WEBSITE) | HTML · CSS · JS · PHP · MySQL | Full-stack e-commerce platform with payment integration — checkout time reduced by 50% |
+| [⌚ Rudyard Watches — E-commerce](https://github.com/Rudra9461/RUDYARD_WATCHES_WEBSITE) | HTML · CSS · JS · PHP · MySQL · Razorpay | Full-stack platform with hashed auth, a DB-driven cart, and a Razorpay payment integration verified server-side via HMAC-SHA256 signatures |
 | [🧠 NLP Sentiment Analysis Tool](https://github.com/Rudra9461) | Python · Flask · NLTK | Text classifier hitting 85%+ accuracy — recognised at Cognizance'24, IIT Roorkee |
 | [💻 Python Practice & Mini-Projects](https://github.com/Rudra9461/PYTHON) | Python | Core concepts, DSA practice, and beginner-friendly mini-projects |
 | [🌐 Personal Portfolio](https://github.com/Rudra9461/Portfolio) | HTML · CSS · JavaScript | Live at [portfolio-zeta-two-48.vercel.app](https://portfolio-zeta-two-48.vercel.app) |
